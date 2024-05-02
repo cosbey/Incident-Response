@@ -23,7 +23,7 @@ _**Note**_: _Use the incident handler's journal you started in_ [_a previous act
 
 ## Step 1: Evaluate ticket
 
-![](images/Pasted%20image%2020230822221648.png)
+![](images/20230822221648.png)
 
 
 ## Step 2: Review the playbook and flowchart
