@@ -28,11 +28,11 @@ _**Note**_: _Use the incident handler's journal you started in_ [_a previous act
 
 ## Step 2: Review the playbook and flowchart
 
-![[images/Pasted image 20230822222043.png]]
+![](images/20230822222043.png)
 
 ## Step 3: Update the alert ticket status
 
-![[images/Pasted image 20230822222345.png]]
+![](images/20230822222345.png)
 
 ## Step 4: Evaluate the alert
 
@@ -43,17 +43,17 @@ Then, evaluate the contents of the **Alert ticket,** including the content in th
 - **Alert severity**: According to the playbook instructions, an alert severity of Medium or High is a good indication that a ticket might require escalation.
     
 - **Sender details**: Analyzing the sender details of an email is important because it can reveal inconsistencies that can indicate a phishing attempt. Often, phishing emails try to impersonate trusted entities. For example, if there is a mismatch between the sender's email address and the sender's name, this is a good indication that the email might be a phishing email.
-![[images/Pasted image 20230822223417.png]]
+![](images/20230822223417.png)
 
 Comments: Multiple misspelling in this email indicate it may be phishy.
     
 - **Message body**: It's important to analyze the message body (and subject line) of an email because phishing emails often contain grammatical errors, which can be an indication of a phishing attempt.
-![[images/Pasted image 20230822223445.png]]
+![](images/20230822223445.png)
 
     
 - **Attachments or links**: Phishing emails contain malicious links or attachments that are used to steal sensitive information or download malicious software or code on the recipient's device. Check to see whether a file has been attached to this email.
 
-![[images/Pasted image 20230822223813.png]]
+![](images/20230822223813.png)
 
 
 After you've evaluated the contents of the alert ticket, answer the 5 W's of this incident to gather the information you need to understand the nature of the alert. The 5 W's are:
@@ -85,6 +85,6 @@ Now that you've examined the email details, complete the final step of the playb
     
 - Under the **Ticket comments** column of the alert ticket template, use the details you've found to explain the steps taken and why you chose to escalate or close the ticket. Include 2-3 reasons as to why you believe this alert should be escalated or closed.
 
-![[images/Pasted image 20230822234415.png]]
+![](images/20230822234415.png)
 
 ## Conclusion
